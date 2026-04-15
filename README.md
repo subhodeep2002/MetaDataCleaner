@@ -1,6 +1,6 @@
 # MetaDataCleaner
 
-A lightweight native macOS app that **bulk strips all metadata** from images — EXIF, PNG text chunks (NovelAI prompts, seeds, model names), XMP, IPTC — and saves cleaned copies with randomized filenames to a folder of your choice.
+A lightweight native macOS app that **bulk strips all metadata** from images — EXIF, PNG text chunks (Prompts, seeds, model names), XMP, IPTC — and saves cleaned copies with randomized filenames to a folder of your choice.
 
 Built with SwiftUI using Apple's `CGImageSource` / `CGImageDestination` APIs. No internet connection. No telemetry. Everything stays on your machine.
 
